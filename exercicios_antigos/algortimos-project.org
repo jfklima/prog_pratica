@@ -1,0 +1,4 @@
+* Projeto algoritmos
+** objetivo:
+   Armazenar todos os meus códigos python que eu estou usando para
+   praticar.

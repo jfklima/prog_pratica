@@ -1,0 +1,21 @@
+* Parte Conceitual
+** Lógica de programação - programação procedural
+** Orientação a objetos = básico
+*** Classe/Objetos
+*** Atributo de dados
+*** Métodos
+*** Herança
+*** Compasição
+* Ferramentas para construir um projeto profissional
+* Ferramentas de engenharia de software
+** Git
+** Testes automáticos
+*** Com injeção de dependências
+*** Isolamento de dependências
+*** Mock
+** Isolamento de ambientes
+** Configurações de dependências
+** Processo de entrega continua
+   Software como uma linha de produção com qualidade
+* Prática
+** Construir uma aplicação com Django

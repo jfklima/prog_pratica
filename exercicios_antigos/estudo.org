@@ -1,0 +1,75 @@
+* Como estudar corretamente
+  O brasileiro não sabe aprender ele sabe apenas estudar
+** Santissima trindade
+*** Escolher uma área
+**** Grandes Áreas da Computação
+     - Ciência de Dados
+     - Dispositivos Móveis
+     - Programação Web
+       - Frontend
+       - Devops
+       - Backend X
+	 Servidor - a lógica e os dados
+*** Uma linguagem
+**** Python
+     Linguagem feita para o aprendizado
+*** Um Framework
+    Django - Resolve um grande número de problemas Web
+** Ementa
+   Parte conceitual que você deve saber no seu estudo
+   - Lógica de programação - programação procedural
+   - Orientação a objetos - Básico
+     - Classe
+     - Atributo de dados
+     - método
+     - herança
+     - composição
+   - Ferramentas para construir um projeto profissional
+     Ferramentas de engenharia de software
+     - git
+     - testes automáticos
+       - Com injeção de dependências
+       - Isolamento de dependências
+       - Mock
+     - Isolamento de ambientes
+     - Configurações de dependências
+     - Processo de entrega continua
+       Software como uma linha de produção com qualidade
+** Prática
+   Construir uma aplicação com o Django
+*** O básico
+    - O básico de protocolo http
+      - request e response
+    - O que o django oferece para essa abstrações
+    - Roteamento
+      Toda aplicação web precisa resolver o problema de Roteamento dentro de seu site.
+    - Formulários
+      Como recebe dados dos seus clientes faz validação e etc...
+    - Banco de dados
+      Usar o ORM do Django
+    - Templates
+** Plano de estudos - organização
+   O esforço vence a genialidade
+   - Estudar todos os dias
+   - 2 ou 3 horas por dia
+   - por 1 ano
+** Testar o mercado
+   Aplicar para o maior número de vagas possíveis e aprender com esse
+   processo. Aprededno o soft skill.
+*** softskill
+    Um bom profissional
+    - responsável
+    - não tem medo de trabalho
+    - entrega
+      Promete e cumpre
+    - sabe se desenvolver sozinho.
+      Aprende o que precisa
+** Como me candidatar as vagas?
+   ...
+** Como estudar
+   Programação é uma profissão de prática
+*** Colocar a mão na massa
+    Programar é legal
+*** Aula - 5%
+*** Exercício - 75%
+*** Projeto Real - 20%
